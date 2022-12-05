@@ -1,4 +1,5 @@
 public class Que1 {
+//    1.Write a program(WAP) to print INEURON using pattern programming logic
     public static void main(String[] args) {
         int n=10;
         for (int i=0;i<n;i++){
